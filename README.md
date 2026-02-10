@@ -2,7 +2,7 @@
 
 **Data Analyst**
 
-<hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #667eea, #764ba2);">
 
 ## 👋 About Me
 
