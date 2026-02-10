@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=59170A&height=2"/>
 </p>
 
-<h3 align="center">Naomi Nguyen</h3>
+<h3 align="center">Vu Hong Ngan (Naomi) Nguyen</h3>
 
 <p align="center" style="font-size: 14px;">
   <b>Data Analyst</b><br/><br/>
@@ -176,6 +176,3 @@ Providence College | December 2025
 
 <p align="center" style="font-size: 12px;">Boston, Massachusetts</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3"/>
-</p>
