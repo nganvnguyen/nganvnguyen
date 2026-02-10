@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" style="font-size: 13px;">
-  <b>Industry Background:</b> E-commerce · Banking · SaaS
+  <b>Industry:</b> E-commerce · Banking · SaaS
 </p>
 
 <p align="center">
@@ -89,40 +89,6 @@ Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shi
 **Tools:** Python · scikit-learn · Pandas · Machine Learning  
 
 Completed a competitive 12-month machine learning fellowship focused on real-world problem solving. Built predictive models and data pipelines using supervised and unsupervised learning to address complex business challenges.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### Academic Background
-
-<table>
-<tr>
-<td style="font-size: 13px;">
-
-**Bachelor of Science in Computer Science & Mathematics**  
-Providence College | December 2025  
-- Minor in Data Science
-- GPA: 4.0/4.0 | Summa Cum Laude | Phi Beta Kappa
-- Highest GPA Award in Department
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### Certifications & Achievements
-
-<table>
-<tr>
-<td style="font-size: 13px;">
-
-- **Microsoft Power BI Data Analyst (PL-300)** — *In Progress*
-- **Break Through Tech MIT Machine Learning Fellowship** — 2024
-- **SQL & Python** — HackerRank, StrataScratch
 
 </td>
 </tr>
