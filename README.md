@@ -6,7 +6,7 @@
 
 <p align="center" style="font-size: 14px;">
   <b>Data Analyst</b><br/><br/>
-  Love problem-solving. from mathematical reasoning to real-world business challenges with hope to bridge <b>business knowledge across domains with <b>data-driven insights</b> to help businesses operate efficiently and scale sustainably.
+  Love problem-solving. from mathematical reasoning to real-world business challenges with hope to bridge <b>business knowledge across domains</b>b> with <b>data-driven insights</b> to help businesses operate efficiently and scale sustainably.
 </p>
 
 <p align="center" style="font-size: 13px;">
@@ -19,10 +19,11 @@
 
 <br>
 
-<h3 style="background-color: #59170A; padding: 10px; border-radius: 5px;">DATA ANALYSIS PROJECTS</h3>
-
 <table>
 <tr>
+<td width="60px" align="center" bgcolor="#E3F2FD">
+<img src="assets/icon.png" width="40" height="40"/>
+</td>
 <td style="font-size: 13px;">
 
 **FPT | Customer360 Segmentation**  
