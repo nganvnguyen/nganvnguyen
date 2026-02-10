@@ -6,7 +6,9 @@
 
 <p align="center" style="font-size: 14px;">
   <b>Data Analyst</b><br/><br/>
-  Love problem-solving. from mathematical reasoning to real-world business challenges with hope to bridge <b>business knowledge across domains</b>b> with <b>data-driven insights</b> to help businesses operate efficiently and scale sustainably.
+  Love problem-solving — from mathematical reasoning to real-world business challenges. 
+  Passionate about bridging <b>business knowledge across domains</b> with 
+  <b>data-driven insights</b> to help organizations operate efficiently and scale sustainably.
 </p>
 
 <p align="center" style="font-size: 13px;">
@@ -19,10 +21,12 @@
 
 <br>
 
+<!-- ================= PROJECTS ================= -->
+
 <table>
 <tr>
-<td width="60px" align="center" bgcolor="#E3F2FD">
-<img src="assets/icon.png" width="40" height="40"/>
+<td width="60px" align="center">
+<img src="https://img.icons8.com/fluency/48/dashboard-layout.png"/>
 </td>
 <td style="font-size: 13px;">
 
@@ -37,6 +41,9 @@ Coming soon.
 
 <table>
 <tr>
+<td width="60px" align="center">
+<img src="https://img.icons8.com/fluency/48/seo.png"/>
+</td>
 <td style="font-size: 13px;">
 
 **UniAce | SEO Performance Analysis**  
@@ -50,6 +57,9 @@ Coming soon.
 
 <table>
 <tr>
+<td width="60px" align="center">
+<img src="https://img.icons8.com/fluency/48/sentiment-analysis.png"/>
+</td>
 <td style="font-size: 13px;">
 
 **Shopee | Customer Sentiment Analysis**  
@@ -65,16 +75,21 @@ Coming soon.
 
 <br>
 
-### AI & Machine Learning Lab
+### 🤖 AI & Machine Learning Lab
 
 <table>
 <tr>
+<td width="60px" align="center">
+<img src="https://img.icons8.com/fluency/48/chatbot.png"/>
+</td>
 <td style="font-size: 13px;">
 
 **Bowery Resident Committee | Smart RAG Chatbot**  
-**Tools:** Python · Retrieval Augmented Generation (RAG) · NLP · LangChain  
+**Tools:** Python · RAG · NLP · LangChain  
 
-Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shift employees. Implemented document embedding and semantic search to deliver accurate, instant responses to operational queries. Reduced average response time from ~2 hours to near-instant for common questions, significantly improving workflow efficiency.
+Built an intelligent RAG-based chatbot providing 24/7 support for night-shift employees. 
+Implemented document embeddings and semantic search to deliver accurate, instant responses. 
+Reduced average response time from ~2 hours to near-instant, significantly improving workflow efficiency.
 
 </td>
 </tr>
@@ -82,12 +97,17 @@ Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shi
 
 <table>
 <tr>
+<td width="60px" align="center">
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
+</td>
 <td style="font-size: 13px;">
 
 **Break Through Tech MIT | Churn Prediction Model**  
 **Tools:** Python · scikit-learn · Pandas · Machine Learning  
 
-Completed a competitive 12-month machine learning fellowship focused on real-world problem solving. Built predictive models and data pipelines using supervised and unsupervised learning to address complex business challenges.
+Completed a competitive 12-month ML fellowship focused on real-world problem solving. 
+Developed predictive models and data pipelines using supervised and unsupervised learning 
+to address complex business challenges.
 
 </td>
 </tr>
@@ -95,19 +115,18 @@ Completed a competitive 12-month machine learning fellowship focused on real-wor
 
 <br>
 
-### Let's Connect
+### 🔗 Let's Connect
 
 <p align="center">
   <a href="mailto:nguyenvuhongngan168@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/nganvnguyen">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/nganvnguyen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center" style="font-size: 12px;">Boston, Massachusetts</p>
-
