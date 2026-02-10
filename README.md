@@ -5,7 +5,8 @@
 ---
 
 ## 👋 About Me
-Love problem-solving, from math to business problems. Hope to bring business knowledge across domains with data-driven insights to help businesses operate and grow. 
+**Love problem-solving, from math to business problems. Hope to bring business knowledge across domains with data-driven insights to help businesses operate and grow.**
+Background: Ecommerce, Bank, SaaS
 ---
 
 ## 🛠️ Skills
