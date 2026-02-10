@@ -21,7 +21,7 @@
 
 <br>
 
-### <span style="color: #0047AB;">DATA ANALYSIS PROJECTS</span> 
+<h3 style="background-color: #59170A; padding: 10px; border-radius: 5px;">DATA ANALYSIS PROJECTS</h3>
 
 <table>
 <tr>
