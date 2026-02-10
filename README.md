@@ -21,37 +21,7 @@
 
 <br>
 
-### Tech Toolkit
-
-<table>
-<tr>
-<td width="50%" valign="top" style="font-size: 13px;">
-
-**Programming & Query Languages**  
-Python · SQL · DAX · M (Power Query)
-
-**Data Visualization & BI**  
-Power BI · Tableau · Excel (Advanced) · Matplotlib · Seaborn
-
-**Data Analysis**  
-Pandas · NumPy · Statistical Analysis · A/B Testing · Customer Segmentation
-
-</td>
-<td width="50%" valign="top" style="font-size: 13px;">
-
-**Tools & Platforms**  
-Git · Jupyter Notebook · Google BigQuery · Visual Studio Code
-
-**Core Competencies**  
-Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · Predictive Analytics
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### Data Analytics Showcase
+### <span style="color: #0047AB;">DATA ANALYSIS PROJECTS</span> 
 
 <table>
 <tr>
