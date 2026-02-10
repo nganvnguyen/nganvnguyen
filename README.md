@@ -3,28 +3,39 @@
 </p>
 
 <h1 align="center">Naomi Nguyen</h1>
-
 <p align="center">
   <b>Data Analyst</b><br/>
-  Turning data into business insight
+  Turning data into business insights
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3C72,100:2A5298&height=4"/>
 </p>
 
----
+<br>
 
-## About Me
+## 👋 About Me
+
+<table>
+<tr>
+<td>
+
 I love problem-solving — from mathematical reasoning to real-world business challenges.  
 My goal is to bridge **business knowledge across domains** with **data-driven insights** to help organizations operate efficiently and scale sustainably.
 
-**Industry Background:**  
-E-commerce · Banking · SaaS
+**Industry Background:** E-commerce · Banking · SaaS
 
----
+</td>
+</tr>
+</table>
 
-## Skills
+<br>
+
+## 🛠️ Skills
+
+<table>
+<tr>
+<td width="50%">
 
 **Programming & Query Languages**  
 Python · SQL · DAX · M (Power Query)
@@ -35,64 +46,132 @@ Power BI · Tableau · Excel (Advanced) · Matplotlib · Seaborn
 **Data Analysis**  
 Pandas · NumPy · Statistical Analysis · A/B Testing · Customer Segmentation
 
+</td>
+<td width="50%">
+
 **Tools & Platforms**  
 Git · Jupyter Notebook · Google BigQuery · Visual Studio Code
 
 **Core Competencies**  
 Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · Predictive Analytics
 
----
+</td>
+</tr>
+</table>
 
-## Data Analysis Projects
+<br>
+
+## 📊 Data Analysis Projects
+
+<table>
+<tr>
+<td>
 
 ### **FPT | Customer360 Segmentation**
 **Tools:** Power BI · DAX · Power Query · Excel  
+
 Coming soon.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ### **UniAce | SEO Analysis**
 **Tools:** Python · SQL · Pandas · NumPy · Jupyter Notebook  
+
 Coming soon.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ### **Shopee | Sentiment Analysis**
 **Tools:** SQL · Google BigQuery · Python  
+
 Coming soon.
 
-→ *More projects available in my repositories*
+</td>
+</tr>
+</table>
 
----
+<p align="center">→ <i>More projects available in my repositories</i></p>
 
-## Machine Learning & AI Projects
+<br>
+
+## 🤖 Machine Learning & AI Projects
+
+<table>
+<tr>
+<td>
 
 ### **Bowery Resident Committee | RAG Chatbot Development**
 **Tools:** Python · Retrieval Augmented Generation (RAG) · NLP · LangChain  
 
 Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shift employees. Implemented document embedding and semantic search to deliver accurate, instant responses to operational queries. Reduced average response time from ~2 hours to near-instant for common questions, significantly improving workflow efficiency.
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
 ### **Break Through Tech MIT ML Fellowship | Customer Churn Prediction**
 **Tools:** Python · scikit-learn · Pandas · Machine Learning  
 
 Completed a competitive 12-month machine learning fellowship focused on real-world problem solving. Built predictive models and data pipelines using supervised and unsupervised learning to address complex business challenges.
 
----
+</td>
+</tr>
+</table>
 
-## Education & Certifications
+<br>
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td>
 
 **Bachelor of Science in Computer Science & Mathematics**  
-Minor in Data Science
+Providence College | December 2025  
+Minor in Data Science | GPA: 4.0/4.0 | Summa Cum Laude
 
 **Certifications**
 - Microsoft Power BI Data Analyst (PL-300) — *In Progress*
 - Break Through Tech MIT Machine Learning Fellowship — 2024
-- SQL & Python — HackerRank
+- SQL & Python — HackerRank, StrataScratch
 
----
+</td>
+</tr>
+</table>
 
-## Let’s Connect
+<br>
 
-📧 Email: **nguyenvuhongngan168@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/nganvnguyen](https://linkedin.com/in/nganvnguyen)  
-💻 GitHub: [github.com/nganvnguyen](https://github.com/nganvnguyen)  
-📍 Boston, Massachusetts
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:nguyenvuhongngan168@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/nganvnguyen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nganvnguyen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">📍 Boston, Massachusetts</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3C72,100:2A5298&height=4"/>
