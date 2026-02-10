@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:0074D9&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,100:00BFFF&height=4"/>
 </p>
 
 <h1 align="center">Naomi Nguyen</h1>
 
 <p align="center">
   <b>Data Analyst</b><br/><br/>
-  Love problem-solving, from mathematical reasoning to practical business challenges<br/>
-  with hope to bridge <b>business acumen across domains</b> with <b>data-driven insights</b><br/>
+  Love problem-solving — from mathematical reasoning to real-world business challenges<br/>
+  with hope to bridge <b>business knowledge across domains</b> with <b>data-driven insights</b><br/>
   to help businesses operate efficiently and scale sustainably.
 </p>
 
@@ -16,26 +16,34 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:1E90FF&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,100:00BFFF&height=4"/>
 </p>
 
 <br>
 
-## 🛠️ SKILLS
+## 🧰 TECH TOOLKIT
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Programming & Query Languages**  
-Python · SQL · PowerBI · Excel (Power Query)· Google BigQuery
+**💻 Programming & Query Languages**  
+Python · SQL · DAX · M (Power Query)
 
+**📊 Data Visualization & BI**  
+Power BI · Tableau · Excel (Advanced) · Matplotlib · Seaborn
+
+**🔍 Data Analysis**  
+Pandas · NumPy · Statistical Analysis · A/B Testing · Customer Segmentation
 
 </td>
 <td width="50%" valign="top">
 
-**Core Competencies**  
-Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · Operational Intelligence ·Database Design
+**🛠️ Tools & Platforms**  
+Git · Jupyter Notebook · Google BigQuery · Visual Studio Code
+
+**⚡ Core Competencies**  
+Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · Predictive Analytics
 
 </td>
 </tr>
@@ -43,14 +51,14 @@ Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · O
 
 <br>
 
-## 📊 DATA ANALYSIS PROJECTS
+## 📈 DATA ANALYTICS SHOWCASE
 
 <table>
 <tr>
 <td>
 
-### **FPT | Customer360 Segmentation**
-**Tools:** Power BI · SQL
+### **🛒 FPT | Customer360 Segmentation**
+**Tools:** Power BI · DAX · Power Query · Excel  
 
 Coming soon.
 
@@ -62,8 +70,8 @@ Coming soon.
 <tr>
 <td>
 
-### **UniAce | SEO Analysis**
-**Tools:** PowerBI, SQL 
+### **🔎 UniAce | SEO Performance Analysis**
+**Tools:** Python · SQL · Pandas · NumPy · Jupyter Notebook  
 
 Coming soon.
 
@@ -75,8 +83,8 @@ Coming soon.
 <tr>
 <td>
 
-### **Shopee | Sentiment Analysis**
-**Tools:** PowerBI, SQL  
+### **💬 Shopee | Customer Sentiment Analysis**
+**Tools:** SQL · Google BigQuery · Python  
 
 Coming soon.
 
@@ -88,14 +96,14 @@ Coming soon.
 
 <br>
 
-## 🤖 MACHINE LEARNING & AI PROJECTS
+## 🤖 AI & MACHINE LEARNING LAB
 
 <table>
 <tr>
 <td>
 
-### **Bowery Resident Committee | RAG Chatbot Development**
-**Tools:** Python · Retrieval Augmented Generation (RAG) · NLP   
+### **💡 Bowery Resident Committee | Smart RAG Chatbot**
+**Tools:** Python · Retrieval Augmented Generation (RAG) · NLP · LangChain  
 
 Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shift employees. Implemented document embedding and semantic search to deliver accurate, instant responses to operational queries. Reduced average response time from ~2 hours to near-instant for common questions, significantly improving workflow efficiency.
 
@@ -107,7 +115,7 @@ Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shi
 <tr>
 <td>
 
-### **Break Through Tech MIT ML Fellowship | Customer Churn Prediction**
+### **🎯 Break Through Tech MIT | Churn Prediction Model**
 **Tools:** Python · scikit-learn · Pandas · Machine Learning  
 
 Completed a competitive 12-month machine learning fellowship focused on real-world problem solving. Built predictive models and data pipelines using supervised and unsupervised learning to address complex business challenges.
@@ -118,7 +126,7 @@ Completed a competitive 12-month machine learning fellowship focused on real-wor
 
 <br>
 
-## 🎓 EDUCATION
+## 🎓 ACADEMIC BACKGROUND
 
 <table>
 <tr>
@@ -136,7 +144,7 @@ Providence College | December 2025
 
 <br>
 
-## 📜 CERTIFICATIONS
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
 <table>
 <tr>
@@ -152,7 +160,7 @@ Providence College | December 2025
 
 <br>
 
-## 🤝 LET'S CONNECT
+## 💌 LET'S BUILD TOGETHER
 
 <p align="center">
   <a href="mailto:nguyenvuhongngan168@gmail.com">
@@ -169,5 +177,5 @@ Providence College | December 2025
 <p align="center">📍 Boston, Massachusetts</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:1E90FF&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,100:00BFFF&height=4"/>
 </p>
