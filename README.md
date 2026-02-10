@@ -2,12 +2,15 @@
 
 **Data Analyst**
 
----
+<hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
 
 ## 👋 About Me
-**Love problem-solving, from math to business problems. Hope to bring business knowledge across domains with data-driven insights to help businesses operate and grow.**
-Background: Ecommerce, Bank, SaaS
----
+
+Love problem-solving, from math to business problems. Hope to bring business knowledge across domains with data-driven insights to help businesses operate and grow.
+
+**Background:** E-commerce, Banking, SaaS
+<hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
+
 
 ## 🛠️ Skills
 
@@ -26,7 +29,8 @@ Git • Jupyter Notebook • Google BigQuery • Visual Studio Code
 **Core Competencies**  
 Data Modeling • ETL Processes • Dashboard Design • Business Intelligence • Predictive Analytics
 
----
+<hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
+
 
 ## 📊 Data Analysis Projects
 
@@ -45,7 +49,8 @@ Coming soon.
 
 Coming soon.
 
----
+<hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
+
 
 ## 🤖 Machine Learning & AI Projects
 
@@ -59,7 +64,8 @@ Developed an intelligent chatbot using RAG to provide 24/7 support for night shi
 
 Completed competitive 12-month machine learning program focused on real-world applications. Developed predictive models and data pipelines to solve complex business problems through supervised and unsupervised learning techniques.
 
----
+<hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
+
 
 ## 🎓 Education & Certifications
 
@@ -70,7 +76,8 @@ Completed competitive 12-month machine learning program focused on real-world ap
 - Break Through Tech MIT Machine Learning Fellowship – 2024
 - SQL & Python (HackerRank)
 
----
+<hr style="border: 1px solid #e0e0e0; margin: 30px 0;">
+
 
 ## 🤝 Let's Connect
 
