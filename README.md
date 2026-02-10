@@ -1,48 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,100:00BFFF&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3"/>
 </p>
 
-<h1 align="center">Naomi Nguyen</h1>
+<h3 align="center">Naomi Nguyen</h3>
 
-<p align="center">
+<p align="center" style="font-size: 14px;">
   <b>Data Analyst</b><br/><br/>
   Love problem-solving — from mathematical reasoning to real-world business challenges<br/>
   with hope to bridge <b>business knowledge across domains</b> with <b>data-driven insights</b><br/>
   to help businesses operate efficiently and scale sustainably.
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 13px;">
   <b>Industry Background:</b> E-commerce · Banking · SaaS
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,100:00BFFF&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3"/>
 </p>
 
 <br>
 
-## 🧰 TECH TOOLKIT
+### Tech Toolkit
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="font-size: 13px;">
 
-**💻 Programming & Query Languages**  
+**Programming & Query Languages**  
 Python · SQL · DAX · M (Power Query)
 
-**📊 Data Visualization & BI**  
+**Data Visualization & BI**  
 Power BI · Tableau · Excel (Advanced) · Matplotlib · Seaborn
 
-**🔍 Data Analysis**  
+**Data Analysis**  
 Pandas · NumPy · Statistical Analysis · A/B Testing · Customer Segmentation
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="font-size: 13px;">
 
-**🛠️ Tools & Platforms**  
+**Tools & Platforms**  
 Git · Jupyter Notebook · Google BigQuery · Visual Studio Code
 
-**⚡ Core Competencies**  
+**Core Competencies**  
 Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · Predictive Analytics
 
 </td>
@@ -51,13 +51,13 @@ Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · P
 
 <br>
 
-## 📈 DATA ANALYTICS SHOWCASE
+### Data Analytics Showcase
 
 <table>
 <tr>
-<td>
+<td style="font-size: 13px;">
 
-### **🛒 FPT | Customer360 Segmentation**
+**FPT | Customer360 Segmentation**  
 **Tools:** Power BI · DAX · Power Query · Excel  
 
 Coming soon.
@@ -68,9 +68,9 @@ Coming soon.
 
 <table>
 <tr>
-<td>
+<td style="font-size: 13px;">
 
-### **🔎 UniAce | SEO Performance Analysis**
+**UniAce | SEO Performance Analysis**  
 **Tools:** Python · SQL · Pandas · NumPy · Jupyter Notebook  
 
 Coming soon.
@@ -81,9 +81,9 @@ Coming soon.
 
 <table>
 <tr>
-<td>
+<td style="font-size: 13px;">
 
-### **💬 Shopee | Customer Sentiment Analysis**
+**Shopee | Customer Sentiment Analysis**  
 **Tools:** SQL · Google BigQuery · Python  
 
 Coming soon.
@@ -92,17 +92,17 @@ Coming soon.
 </tr>
 </table>
 
-<p align="center">→ <i>More projects available in my repositories</i></p>
+<p align="center" style="font-size: 12px;"><i>More projects available in my repositories</i></p>
 
 <br>
 
-## 🤖 AI & MACHINE LEARNING LAB
+### AI & Machine Learning Lab
 
 <table>
 <tr>
-<td>
+<td style="font-size: 13px;">
 
-### **💡 Bowery Resident Committee | Smart RAG Chatbot**
+**Bowery Resident Committee | Smart RAG Chatbot**  
 **Tools:** Python · Retrieval Augmented Generation (RAG) · NLP · LangChain  
 
 Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shift employees. Implemented document embedding and semantic search to deliver accurate, instant responses to operational queries. Reduced average response time from ~2 hours to near-instant for common questions, significantly improving workflow efficiency.
@@ -113,9 +113,9 @@ Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shi
 
 <table>
 <tr>
-<td>
+<td style="font-size: 13px;">
 
-### **🎯 Break Through Tech MIT | Churn Prediction Model**
+**Break Through Tech MIT | Churn Prediction Model**  
 **Tools:** Python · scikit-learn · Pandas · Machine Learning  
 
 Completed a competitive 12-month machine learning fellowship focused on real-world problem solving. Built predictive models and data pipelines using supervised and unsupervised learning to address complex business challenges.
@@ -126,11 +126,11 @@ Completed a competitive 12-month machine learning fellowship focused on real-wor
 
 <br>
 
-## 🎓 ACADEMIC BACKGROUND
+### Academic Background
 
 <table>
 <tr>
-<td>
+<td style="font-size: 13px;">
 
 **Bachelor of Science in Computer Science & Mathematics**  
 Providence College | December 2025  
@@ -144,11 +144,11 @@ Providence College | December 2025
 
 <br>
 
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
+### Certifications & Achievements
 
 <table>
 <tr>
-<td>
+<td style="font-size: 13px;">
 
 - **Microsoft Power BI Data Analyst (PL-300)** — *In Progress*
 - **Break Through Tech MIT Machine Learning Fellowship** — 2024
@@ -160,7 +160,7 @@ Providence College | December 2025
 
 <br>
 
-## 💌 LET'S BUILD TOGETHER
+### Let's Connect
 
 <p align="center">
   <a href="mailto:nguyenvuhongngan168@gmail.com">
@@ -174,8 +174,8 @@ Providence College | December 2025
   </a>
 </p>
 
-<p align="center">📍 Boston, Massachusetts</p>
+<p align="center" style="font-size: 12px;">Boston, Massachusetts</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,100:00BFFF&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=3"/>
 </p>
