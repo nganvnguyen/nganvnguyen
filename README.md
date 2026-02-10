@@ -5,8 +5,9 @@
 <h1 align="center">Naomi Nguyen</h1>
 <p align="center">
   <b>Data Analyst</b><br/>
-  Turning data into business insights
+  Love problem-solving — from mathematical reasoning to real-world business challenges with hope to bridge **business knowledge across domains** with **data-driven insights** to help businesses operate efficiently and scale sustainably.
 </p>
+**Industry Background:** E-commerce · Banking · SaaS
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3C72,100:2A5298&height=4"/>
@@ -14,24 +15,8 @@
 
 <br>
 
-## 👋 About Me
 
-<table>
-<tr>
-<td>
-
-I love problem-solving — from mathematical reasoning to real-world business challenges.  
-My goal is to bridge **business knowledge across domains** with **data-driven insights** to help organizations operate efficiently and scale sustainably.
-
-**Industry Background:** E-commerce · Banking · SaaS
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🛠️ Skills
+## 🛠️ SKILLS
 
 <table>
 <tr>
@@ -61,7 +46,7 @@ Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · P
 
 <br>
 
-## 📊 Data Analysis Projects
+## 📊 DATA ANALYSIS PROJECTS
 
 <table>
 <tr>
@@ -106,7 +91,7 @@ Coming soon.
 
 <br>
 
-## 🤖 Machine Learning & AI Projects
+## 🤖 MACHINE LEARNING & AI PROJECTS
 
 <table>
 <tr>
@@ -136,8 +121,7 @@ Completed a competitive 12-month machine learning fellowship focused on real-wor
 
 <br>
 
-## 🎓 Education & Certifications
-
+## 🎓 EDUCATION & CERTIFICATIONS
 <table>
 <tr>
 <td>
@@ -157,7 +141,7 @@ Minor in Data Science | GPA: 4.0/4.0 | Summa Cum Laude
 
 <br>
 
-## 🤝 Let's Connect
+## 🤝 LET'S CONNECT
 
 <p align="center">
   <a href="mailto:nguyenvuhongngan168@gmail.com">
