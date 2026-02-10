@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00CED1&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:1E90FF&height=4"/>
 </p>
 
 <h1 align="center">Naomi Nguyen</h1>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00CED1&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:1E90FF&height=4"/>
 </p>
 
 <br>
@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #E3F2FD 0%, #B3E5FC 100%); padding: 20px; border-radius: 10px;">
+<td width="50%" valign="top">
 
 **Programming & Query Languages**  
 Python · SQL · DAX · M (Power Query)
@@ -37,7 +37,7 @@ Power BI · Tableau · Excel (Advanced) · Matplotlib · Seaborn
 Pandas · NumPy · Statistical Analysis · A/B Testing · Customer Segmentation
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #E0F7FA 0%, #B2EBF2 100%); padding: 20px; border-radius: 10px;">
+<td width="50%" valign="top">
 
 **Tools & Platforms**  
 Git · Jupyter Notebook · Google BigQuery · Visual Studio Code
@@ -55,7 +55,7 @@ Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · P
 
 <table>
 <tr>
-<td style="background: linear-gradient(135deg, #E1F5FE 0%, #B3E5FC 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #0288D1;">
+<td>
 
 ### **FPT | Customer360 Segmentation**
 **Tools:** Power BI · DAX · Power Query · Excel  
@@ -68,7 +68,7 @@ Coming soon.
 
 <table>
 <tr>
-<td style="background: linear-gradient(135deg, #E0F2F1 0%, #B2DFDB 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #00897B;">
+<td>
 
 ### **UniAce | SEO Analysis**
 **Tools:** Python · SQL · Pandas · NumPy · Jupyter Notebook  
@@ -81,7 +81,7 @@ Coming soon.
 
 <table>
 <tr>
-<td style="background: linear-gradient(135deg, #E0F7FA 0%, #B2EBF2 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #00ACC1;">
+<td>
 
 ### **Shopee | Sentiment Analysis**
 **Tools:** SQL · Google BigQuery · Python  
@@ -100,7 +100,7 @@ Coming soon.
 
 <table>
 <tr>
-<td style="background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #43A047;">
+<td>
 
 ### **Bowery Resident Committee | RAG Chatbot Development**
 **Tools:** Python · Retrieval Augmented Generation (RAG) · NLP · LangChain  
@@ -113,7 +113,7 @@ Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shi
 
 <table>
 <tr>
-<td style="background: linear-gradient(135deg, #E1F5FE 0%, #B3E5FC 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #039BE5;">
+<td>
 
 ### **Break Through Tech MIT ML Fellowship | Customer Churn Prediction**
 **Tools:** Python · scikit-learn · Pandas · Machine Learning  
@@ -130,7 +130,7 @@ Completed a competitive 12-month machine learning fellowship focused on real-wor
 
 <table>
 <tr>
-<td style="background: linear-gradient(135deg, #FFF9C4 0%, #FFF59D 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #FBC02D;">
+<td>
 
 **Bachelor of Science in Computer Science & Mathematics**  
 Providence College | December 2025  
@@ -148,7 +148,7 @@ Providence College | December 2025
 
 <table>
 <tr>
-<td style="background: linear-gradient(135deg, #F3E5F5 0%, #E1BEE7 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #8E24AA;">
+<td>
 
 - **Microsoft Power BI Data Analyst (PL-300)** — *In Progress*
 - **Break Through Tech MIT Machine Learning Fellowship** — 2024
@@ -164,18 +164,18 @@ Providence College | December 2025
 
 <p align="center">
   <a href="mailto:nguyenvuhongngan168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00CED1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/nganvnguyen">
-    <img src="https://img.shields.io/badge/LinkedIn-0288D1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/nganvnguyen">
-    <img src="https://img.shields.io/badge/GitHub-00ACC1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">📍 Boston, Massachusetts</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:00CED1&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:1E90FF&height=4"/>
 </p>
