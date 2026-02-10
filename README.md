@@ -25,13 +25,10 @@
 
 <table>
 <tr>
-<td width="60px" align="center">
-<img src="https://img.icons8.com/fluency/48/dashboard-layout.png"/>
-</td>
 <td style="font-size: 13px;">
 
-**FPT | Customer360 Segmentation**  
-**Tools:** Power BI · DAX · Power Query · Excel  
+<strong>FPT | Customer360 Segmentation</strong><br/>
+<strong>Tools:</strong> Power BI · DAX · Power Query · Excel  
 
 Coming soon.
 
@@ -41,13 +38,10 @@ Coming soon.
 
 <table>
 <tr>
-<td width="60px" align="center">
-<img src="https://img.icons8.com/fluency/48/seo.png"/>
-</td>
 <td style="font-size: 13px;">
 
-**UniAce | SEO Performance Analysis**  
-**Tools:** Python · SQL · Pandas · NumPy · Jupyter Notebook  
+<strong>UniAce | SEO Performance Analysis</strong><br/>
+<strong>Tools:</strong> Python · SQL · Pandas · NumPy · Jupyter Notebook  
 
 Coming soon.
 
@@ -57,23 +51,16 @@ Coming soon.
 
 <table>
 <tr>
-<td width="60px" align="center">
-<img src="https://img.icons8.com/fluency/48/sentiment-analysis.png"/>
-</td>
 <td style="font-size: 13px;">
 
-**Shopee | Customer Sentiment Analysis**  
-**Tools:** SQL · Google BigQuery · Python  
+<strong>Shopee | Customer Sentiment Analysis</strong><br/>
+<strong>Tools:</strong> SQL · Google BigQuery · Python  
 
 Coming soon.
 
 </td>
 </tr>
 </table>
-
-<p align="center" style="font-size: 12px;"><i>More projects available in my repositories</i></p>
-
-<br>
 
 ### 🤖 AI & Machine Learning Lab
 
