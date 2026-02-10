@@ -5,9 +5,7 @@
 ---
 
 ## 👋 About Me
-
-Recent Computer Science and Mathematics graduate (4.0 GPA, Summa Cum Laude) from Providence College with a passion for transforming complex data into actionable business insights. Completed competitive Machine Learning Fellowship at Break Through Tech MIT. Currently seeking Marketing Data Analyst opportunities in the Boston area, specializing in e-commerce and retail analytics.
-
+Love problem-solving, from math to business problems. Hope to bring business knowledge across domains with data-driven insights to help businesses operate and grow. 
 ---
 
 ## 🛠️ Skills
@@ -82,8 +80,3 @@ Completed competitive 12-month machine learning program focused on real-world ap
 
 ---
 
-<div align="center">
-
-*Open to Marketing Data Analyst opportunities in the Boston area*
-
-</div>
