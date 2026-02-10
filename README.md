@@ -22,7 +22,7 @@
 <br>
 
 <!-- ================= PROJECTS ================= -->
-
+### 📈 Data Analysis Projects
 <table>
 <tr>
 <td style="font-size: 13px;">
