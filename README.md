@@ -1,23 +1,89 @@
-# 👩‍💻 Ngan (Naomi) Nguyen
+# Naomi Nguyen
 
-**Data Analyst | Mathematics & Computer Science Background**  
-📍 Boston, MA | 📧 **your-email@example.com**
+**Data Analyst**
 
 ---
 
 ## 👋 About Me
 
-Recent **Computer Science and Mathematics graduate** (December 2025, 4.0 GPA, Summa Cum Laude) from Providence College. Completed competitive **Machine Learning Fellowship at Break Through Tech MIT**. Passionate about transforming complex data into actionable business insights. Currently seeking **Marketing Data Analyst** opportunities in the Boston area, with focus on e-commerce and retail analytics.
+Recent Computer Science and Mathematics graduate (4.0 GPA, Summa Cum Laude) from Providence College with a passion for transforming complex data into actionable business insights. Completed competitive Machine Learning Fellowship at Break Through Tech MIT. Currently seeking Marketing Data Analyst opportunities in the Boston area, specializing in e-commerce and retail analytics.
 
 ---
 
-## 📊 Featured Projects
+## 🛠️ Skills
 
-### **XLN Vietnamese Food Business Performance Analysis | Power BI**
-Comprehensive Q4 2025 performance analysis across multiple delivery platforms (Grab, Shopee Food, Be Food, Xanh SM). Built interactive dashboards tracking revenue trends, customer behavior, and platform-specific metrics using advanced DAX measures and data modeling to drive business decisions.
+**Programming & Query Languages**  
+Python • SQL • DAX • M (Power Query)
 
-### **Analyzing Booking Patterns and Cancellation Drivers - Hotel | Python, SQL**
-A data analysis project focused on evaluating hotel revenue performance and identifying high-risk customer segments through booking behavior and cancellation patterns. Applied statistical analysis and predictive modeling to reduce cancellation rates.
+**Data Visualization & BI Tools**  
+Power BI • Tableau • Excel (Advanced) • Matplotlib • Seaborn
 
-### **BRC Nightstaff Chatbot | Python, RAG**
-Built a dataset-specific Chatbot using Retrieval Augmented Generation (RAG) to help night shift employees get immediate responses to work-related queries. Implemented natural l
+**Data Analysis & Libraries**  
+Pandas • NumPy • Statistical Analysis • A/B Testing • Customer Segmentation
+
+**Tools & Platforms**  
+Git • Jupyter Notebook • Google BigQuery • Visual Studio Code
+
+**Core Competencies**  
+Data Modeling • ETL Processes • Dashboard Design • Business Intelligence • Predictive Analytics
+
+---
+
+## 📊 Data Analysis Projects
+
+### **FPT | Customer360 Segmentation**
+**Tools:** Power BI • DAX • Power Query • Excel
+
+Coming soon. 
+
+### **UniAce | SEO Analysis**
+**Tools:** Python • SQL • Pandas • NumPy • Jupyter Notebook
+
+Coming soon. 
+
+### **Shoppee | Sentiment Analysis**
+**Tools:** SQL • Google BigQuery • Python
+
+Coming soon.
+
+---
+
+## 🤖 Machine Learning & AI Projects
+
+### **Bowery Resident Commitee | RAG Chatbot Development**
+**Tools:** Python • Retrieval Augmented Generation (RAG) • NLP • LangChain
+
+Developed an intelligent chatbot using RAG to provide 24/7 support for night shift employees. Implemented document embedding and semantic search to deliver immediate, accurate responses to work-related queries. Reduced average response time from 2 hours to instant for common questions, significantly improving operational efficiency.
+
+### **Break Through Tech MIT ML Fellowship | Predict Customer Churn**
+**Tools:** Python • scikit-learn • Pandas • Machine Learning
+
+Completed competitive 12-month machine learning program focused on real-world applications. Developed predictive models and data pipelines to solve complex business problems through supervised and unsupervised learning techniques.
+
+---
+
+## 🎓 Education & Certifications
+
+**Bachelor of Science in Computer Science & Mathematics, Minor in Data Sciencew**  
+
+**Certifications**
+- Microsoft Power BI Data Analyst (PL-300) – *In Progress*
+- Break Through Tech MIT Machine Learning Fellowship – 2024
+- SQL & Python (HackerRank)
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** nguyenvuhongngan168@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/nganvnguyen](https://linkedin.com/in/nganvnguyen)  
+💻 **GitHub:** [github.com/nganvnguyen](https://github.com/nganvnguyen)  
+📍 **Location:** Boston, Massachusetts
+
+---
+
+<div align="center">
+
+*Open to Marketing Data Analyst opportunities in the Boston area*
+
+</div>
