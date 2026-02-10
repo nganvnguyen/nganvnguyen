@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:1E90FF&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:0074D9&height=4"/>
 </p>
 
 <h1 align="center">Naomi Nguyen</h1>
 
 <p align="center">
   <b>Data Analyst</b><br/><br/>
-  Love problem-solving — from mathematical reasoning to real-world business challenges<br/>
+  Love problem-solving, from mathematical reasoning to real-world business challenges<br/>
   with hope to bridge <b>business knowledge across domains</b> with <b>data-driven insights</b><br/>
   to help businesses operate efficiently and scale sustainably.
 </p>
@@ -28,22 +28,14 @@
 <td width="50%" valign="top">
 
 **Programming & Query Languages**  
-Python · SQL · DAX · M (Power Query)
+Python · SQL · PowerBI · Excel (Power Query)· Google BigQuery
 
-**Data Visualization & BI**  
-Power BI · Tableau · Excel (Advanced) · Matplotlib · Seaborn
-
-**Data Analysis**  
-Pandas · NumPy · Statistical Analysis · A/B Testing · Customer Segmentation
 
 </td>
 <td width="50%" valign="top">
 
-**Tools & Platforms**  
-Git · Jupyter Notebook · Google BigQuery · Visual Studio Code
-
 **Core Competencies**  
-Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · Predictive Analytics
+Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · Operational Intelligence ·Database Design
 
 </td>
 </tr>
@@ -58,7 +50,7 @@ Data Modeling · ETL Processes · Dashboard Design · Business Intelligence · P
 <td>
 
 ### **FPT | Customer360 Segmentation**
-**Tools:** Power BI · DAX · Power Query · Excel  
+**Tools:** Power BI · SQL
 
 Coming soon.
 
@@ -71,7 +63,7 @@ Coming soon.
 <td>
 
 ### **UniAce | SEO Analysis**
-**Tools:** Python · SQL · Pandas · NumPy · Jupyter Notebook  
+**Tools:** PowerBI, SQL 
 
 Coming soon.
 
@@ -84,7 +76,7 @@ Coming soon.
 <td>
 
 ### **Shopee | Sentiment Analysis**
-**Tools:** SQL · Google BigQuery · Python  
+**Tools:** PowerBI, SQL  
 
 Coming soon.
 
@@ -103,7 +95,7 @@ Coming soon.
 <td>
 
 ### **Bowery Resident Committee | RAG Chatbot Development**
-**Tools:** Python · Retrieval Augmented Generation (RAG) · NLP · LangChain  
+**Tools:** Python · Retrieval Augmented Generation (RAG) · NLP   
 
 Developed an intelligent RAG-based chatbot to provide 24/7 support for night-shift employees. Implemented document embedding and semantic search to deliver accurate, instant responses to operational queries. Reduced average response time from ~2 hours to near-instant for common questions, significantly improving workflow efficiency.
 
