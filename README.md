@@ -25,7 +25,9 @@
 <tr>
 <td style="font-size: 13px;">
 
-<strong>👉 [Customer Segmentation – RFM Analysis](https://github.com/nganvnguyen/Customer360-RFM-Segmentation))</strong><br/>
+<strong>👉 ### Customer Segmentation – RFM Analysis
+[View Repository →](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
+
 <strong>Tools:</strong> SQL, PowerBI
 
 Coming soon.
