@@ -28,6 +28,8 @@
 <strong>👉 [Customer Segmentation – RFM Analysis](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
 
 <strong>Tools:</strong> SQL, PowerBI
+
+
 Following Customer 360 framework on transactional data to do customer segmentation using RFM analysis based on BCG matrix for targeted marketing campaign and retention decisions.
 
 </td>
