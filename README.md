@@ -5,7 +5,7 @@
 
 <p align="center" style="font-size: 14px;">
   <b>Data Analyst</b><br/><br/>
-  Love problem-solving — from mathematical reasoning to real-world business challenges. 
+  Love problem-solving from mathematical reasoning to real-world business challenges. 
   Passionate about bridging <b>business knowledge across domains</b> with 
   <b>data-driven insights</b> to help organizations operate efficiently and scale sustainably.
 </p>
