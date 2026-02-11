@@ -28,8 +28,7 @@
 <strong>👉 [Customer Segmentation – RFM Analysis](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
 
 <strong>Tools:</strong> SQL, PowerBI
-
-Coming soon.
+Customer segmentation using RFM analysis in Oracle SQL to identify customers based on BCG for targeted marketing and retention decisions.
 
 </td>
 </tr>
