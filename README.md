@@ -27,7 +27,9 @@
 <tr>
 <td style="font-size: 13px;">
 
-<strong>FPT | Customer360 Segmentation</strong><br/>
+<strong>👉 [Customer Segmentation – RFM Analysis](https://github.com/nganvnguyen/Customer360-RFM-Segmentation))</strong><br/>ect
+
+
 <strong>Tools:</strong> Power BI · DAX · Power Query · Excel  
 
 Coming soon.
