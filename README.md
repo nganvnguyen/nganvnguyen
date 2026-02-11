@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=59170A&height=2"/>
 </p>
 
 <h3 align="center">Vu Hong Ngan (Naomi) Nguyen</h3>
@@ -16,7 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=59170A&height=3"/>
 </p>
 
 <br>
@@ -27,10 +25,8 @@
 <tr>
 <td style="font-size: 13px;">
 
-<strong>👉 [Customer Segmentation – RFM Analysis](https://github.com/nganvnguyen/Customer360-RFM-Segmentation))</strong><br/>ect
-
-
-<strong>Tools:</strong> Power BI · DAX · Power Query · Excel  
+<strong>👉 [Customer Segmentation – RFM Analysis](https://github.com/nganvnguyen/Customer360-RFM-Segmentation))</strong><br/>
+<strong>Tools:</strong> SQL, PowerBI
 
 Coming soon.
 
@@ -43,7 +39,7 @@ Coming soon.
 <td style="font-size: 13px;">
 
 <strong>UniAce | SEO Performance Analysis</strong><br/>
-<strong>Tools:</strong> Python · SQL · Pandas · NumPy · Jupyter Notebook  
+<strong>Tools:</strong> SQL, PowerBI
 
 Coming soon.
 
