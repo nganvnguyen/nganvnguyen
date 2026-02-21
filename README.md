@@ -1,5 +1,5 @@
 
-## 👋 About Me
+##  About Me
 
  Love problem-solving from mathematical reasoning to real-world business challenges. 
   Passionate about bridging <b>business knowledge across domains</b> with 
@@ -8,7 +8,7 @@
 ---
 
 <!-- ================= PROJECTS ================= -->
-## 📈 Data Analysis Projects
+##  Data Analysis Projects
 
 ### [Customer Segmentation – RFM Analysis | SQL, Power BI](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
 
@@ -18,7 +18,7 @@ Following the Customer 360 framework on transactional data to perform customer s
 
 ### Topica Edtech Group | HR Analysis | Power BI
 
-Analyzing internal HR data to find out the 
+Analyzing internal HR data to uncover workforce composition, headcount trends, and employee performance patterns across departments. Built an interactive Power BI dashboard to surface insights on productivity distribution and workforce planning, enabling leadership to make informed retention decisions and allocate talent more effectively.
 
 ---
 
@@ -28,7 +28,7 @@ Upcoming.
 
 ---
 
-## 🤖 AI & Machine Learning Lab
+##  AI & Machine Learning Lab
 
 ### Bowery Resident Committee | Smart RAG Chatbot | Python · RAG · NLP · LangChain
 
@@ -42,7 +42,7 @@ Completed a competitive 12-month ML fellowship focused on real-world problem sol
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - **Languages & Tools:** SQL · Python (Pandas, NumPy, scikit-learn) · Power BI · DAX
 - **Analytics:** RFM Segmentation · Cohort Analysis  · Dashboarding · A/B Testing
@@ -51,7 +51,7 @@ Completed a competitive 12-month ML fellowship focused on real-world problem sol
 
 ---
 
-## 🔗 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:nguyenvuhongngan168@gmail.com">
