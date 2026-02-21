@@ -22,7 +22,7 @@ Analyzing internal HR data to uncover workforce composition, headcount trends, a
 
 ---
 
-### Shopee | Fraud Analysis 
+### Shopee | Fraud Analysis(https://github.com/nganvnguyen/HR-Analysis)
 
 Upcoming.
 
