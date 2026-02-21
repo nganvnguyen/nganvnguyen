@@ -1,5 +1,5 @@
 
-##  About Me
+## 😊 About Me
 
  Love problem-solving from mathematical reasoning to real-world business challenges. 
   Passionate about bridging <b>business knowledge across domains</b> with 
@@ -8,7 +8,7 @@
 ---
 
 <!-- ================= PROJECTS ================= -->
-##  Data Analysis Projects
+## 📈 Data Analysis Projects
 
 ### [Customer Segmentation – RFM Analysis | SQL, Power BI](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
 
@@ -28,9 +28,9 @@ Upcoming.
 
 ---
 
-##  AI & Machine Learning Lab
+## 🤖 AI & Machine Learning Lab
 
-### Bowery Resident Committee | Smart RAG Chatbot | Python · RAG · NLP · LangChain
+### Bowery Resident Committee | Smart RAG Chatbot | Python · RAG · NLP 
 
 Built an intelligent RAG-based chatbot providing 24/7 support for night-shift employees. Implemented document embeddings and semantic search to deliver accurate, instant responses. Reduced average response time from ~2 hours to near-instant, significantly improving workflow efficiency.
 
@@ -42,7 +42,7 @@ Completed a competitive 12-month ML fellowship focused on real-world problem sol
 
 ---
 
-##  Technical Skills
+## 🛠️Technical Skills
 
 - **Languages & Tools:** SQL · Python (Pandas, NumPy, scikit-learn) · Power BI · DAX
 - **Analytics:** RFM Segmentation · Cohort Analysis  · Dashboarding · A/B Testing
