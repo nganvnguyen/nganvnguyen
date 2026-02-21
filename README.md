@@ -1,108 +1,57 @@
-<p align="center">
-</p>
 
-<h3 align="center">Vu Hong Ngan (Naomi) Nguyen</h3>
+## 👋 About Me
 
-<p align="center" style="font-size: 14px;">
-  <b>Data Analyst</b><br/><br/>
-  Love problem-solving from mathematical reasoning to real-world business challenges. 
+ Love problem-solving from mathematical reasoning to real-world business challenges. 
   Passionate about bridging <b>business knowledge across domains</b> with 
   <b>data-driven insights</b> to help organizations operate efficiently and scale sustainably.
-</p>
 
-<p align="center" style="font-size: 13px;">
-  <b>Industry:</b> E-commerce · Banking · SaaS
-</p>
-
-<p align="center">
-</p>
-
-<br>
+---
 
 <!-- ================= PROJECTS ================= -->
-### 📈 Data Analysis Projects
-<table>
-<tr>
-<td style="font-size: 13px;">
+## 📈 Data Analysis Projects
 
-<strong>👉 [Customer Segmentation – RFM Analysis](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
+### [Customer Segmentation – RFM Analysis | SQL, Power BI](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
 
-<strong>Tools:</strong> SQL, PowerBI
+Following the Customer 360 framework on transactional data to perform customer segmentation using RFM analysis based on the BCG matrix — enabling targeted marketing campaigns and data-driven retention decisions.
+
+---
+
+### Topica Edtech Group | HR Analysis | Power BI
+
+Analyzing internal HR data to find out the 
+
+---
+
+### Shopee | Fraud Analysis 
+
+Upcoming.
+
+---
+
+## 🤖 AI & Machine Learning Lab
+
+### Bowery Resident Committee | Smart RAG Chatbot | Python · RAG · NLP · LangChain
+
+Built an intelligent RAG-based chatbot providing 24/7 support for night-shift employees. Implemented document embeddings and semantic search to deliver accurate, instant responses. Reduced average response time from ~2 hours to near-instant, significantly improving workflow efficiency.
+
+---
+
+### Break Through Tech MIT | Churn Prediction Model | Python · scikit-learn · Pandas · Machine Learning
+
+Completed a competitive 12-month ML fellowship focused on real-world problem solving. Developed predictive models and data pipelines using supervised and unsupervised learning to address complex business challenges.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages & Tools:** SQL · Python (Pandas, NumPy, scikit-learn) · Power BI · DAX
+- **Analytics:** RFM Segmentation · Cohort Analysis  · Dashboarding · A/B Testing
+- **Platforms:** Google BigQuery · Power Query · Git · Excel
 
 
-Following Customer 360 framework on transactional data to do customer segmentation using RFM analysis based on BCG matrix for targeted marketing campaign and retention decisions.
+---
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="font-size: 13px;">
-
-<strong>UniAce | SEO Performance Analysis</strong><br/>
-<strong>Tools:</strong> SQL, PowerBI
-
-Coming soon.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="font-size: 13px;">
-
-<strong>Shopee | Customer Sentiment Analysis</strong><br/>
-<strong>Tools:</strong> SQL · Google BigQuery · Python  
-
-Coming soon.
-
-</td>
-</tr>
-</table>
-
-### 🤖 AI & Machine Learning Lab
-
-<table>
-<tr>
-<td width="60px" align="center">
-<img src="https://img.icons8.com/fluency/48/chatbot.png"/>
-</td>
-<td style="font-size: 13px;">
-
-**Bowery Resident Committee | Smart RAG Chatbot**  
-**Tools:** Python · RAG · NLP · LangChain  
-
-Built an intelligent RAG-based chatbot providing 24/7 support for night-shift employees. 
-Implemented document embeddings and semantic search to deliver accurate, instant responses. 
-Reduced average response time from ~2 hours to near-instant, significantly improving workflow efficiency.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="60px" align="center">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
-</td>
-<td style="font-size: 13px;">
-
-**Break Through Tech MIT | Churn Prediction Model**  
-**Tools:** Python · scikit-learn · Pandas · Machine Learning  
-
-Completed a competitive 12-month ML fellowship focused on real-world problem solving. 
-Developed predictive models and data pipelines using supervised and unsupervised learning 
-to address complex business challenges.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🔗 Let's Connect
+## 🔗 Let's Connect
 
 <p align="center">
   <a href="mailto:nguyenvuhongngan168@gmail.com">
@@ -115,5 +64,4 @@ to address complex business challenges.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 <p align="center" style="font-size: 12px;">Boston, Massachusetts</p>
