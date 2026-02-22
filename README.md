@@ -22,7 +22,7 @@ Analyzing internal HR data to uncover workforce composition, headcount trends, a
 
 ---
 
-### Shopee | Fraud Analysis
+### VP Bank | Customer Service CRM Analysis | SQL, PowerBI
 
 Upcoming.
 
