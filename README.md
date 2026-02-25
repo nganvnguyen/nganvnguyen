@@ -16,13 +16,13 @@ Following the Customer 360 framework on transactional data to perform customer s
 
 ---
 
-### [Topica Edtech Group | HR Analysis | Power BI](https://github.com/nganvnguyen/HR-Analysis)
+### [Topica Edtech Group | HR Analysis | PowerBI](https://github.com/nganvnguyen/HR-Analysis)
 
 Analyzing internal HR data to uncover workforce composition, headcount trends, and employee performance patterns across departments. Built an interactive Power BI dashboard to surface insights on productivity distribution and workforce planning, enabling leadership to make informed retention decisions and allocate talent more effectively.
 
 ---
 
-### VP Bank | Customer Service CRM Analysis | SQL, PowerBI
+### [VP Bank | Customer Service CRM Analysis | PowerBI](https://github.com/nganvnguyen/VP-Bank-Service-Usage-Analysis)
 
 Upcoming.
 
