@@ -24,7 +24,7 @@ Analyzing internal HR data to uncover workforce composition, headcount trends, a
 
 ### [VP Bank | Customer Service CRM Analysis | PowerBI](https://github.com/nganvnguyen/VP-Bank-Service-Usage-Analysis)
 
-Upcoming.
+Analyzed 113,000+ banking customers across 5 Vietnamese regions to identify 6,575 cross-sell targets worth 26.7B VND/year in untapped lending revenue. Built a 5-page PowerBI dashboard with DAX segmentation, regional behavioral analysis, and a real-time what-if revenue model to guide branch-level action.
 
 ---
 
