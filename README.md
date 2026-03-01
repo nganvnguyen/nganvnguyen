@@ -15,6 +15,9 @@
 Following the Customer 360 framework on transactional data to perform customer segmentation using RFM analysis based on the BCG matrix — enabling targeted marketing campaigns and data-driven retention decisions.
 
 ---
+### [Shoppee | Promotion Fraud Detection Analysis | Python]
+Coming soon
+---
 
 ### [Topica Edtech Group | HR Analysis | PowerBI](https://github.com/nganvnguyen/HR-Analysis)
 
