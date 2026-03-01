@@ -10,12 +10,12 @@
 <!-- ================= PROJECTS ================= -->
 ## 📈 Data Analysis Projects
 
-### [Customer Segmentation – RFM Analysis | SQL, Power BI](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
+### [Customer360 RFM Analysis | SQL, Power BI](https://github.com/nganvnguyen/Customer360-RFM-Segmentation)
 
 Following the Customer 360 framework on transactional data to perform customer segmentation using RFM analysis based on the BCG matrix — enabling targeted marketing campaigns and data-driven retention decisions.
 
 ---
-### [Shoppee | Promotion Fraud Detection Analysis | Python]
+### Shoppee | Promotion Fraud Detection Analysis | Python
 Coming soon
 ---
 
